@@ -1,4 +1,4 @@
-## Homework 2: Personal Project Repository & Copilot‑Enhanced README
+## Homework 1: Personal Project Repository & Copilot‑Enhanced README
 
 **Due Date:** [1404-12-05]
 

@@ -1,6 +1,6 @@
 ## Homework 3: Personal Website with GitHub Pages
 
-**Due Date:** [Insert due date – typically 1 week after Homework 2]
+**Due Date:** [1404-12-10]
 
 **Objective:**  
 Create a personal website using GitHub Pages. You’ll learn to set up a repository, use a provided template, customise it, and publish it live on the web.
